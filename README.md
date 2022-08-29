@@ -1,0 +1,1 @@
+# Latvian Thesaurus Dirscord Bot
