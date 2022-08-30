@@ -1,18 +1,3 @@
-import { Client, GatewayIntentBits } from 'discord.js'
-import dotenv from 'dotenv'
+import { Bot } from './core/bot.js'
 
-dotenv.config()
-
-const token = process.env.DISCORD_TOKEN;
-
-const client = new Client({
-    intents: [
-        GatewayIntentBits.Guilds
-    ]
-});
-
-client.once("ready", () => {
-	console.log("Ready!");
-});
-
-client.login(token);
+new Bot().start();

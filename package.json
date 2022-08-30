@@ -2,7 +2,7 @@
   "name": "latvian-thesaurus-discord-bot",
   "version": "0.0.1",
   "description": "Latvian Thesaurus Discord Bot",
-  "keywords": ["latvian", "thesaurus", "discord", "bot"],
+  "keywords": ["latvian", "thesaurus", "bot"],
   "author": "Arnis Ritins",
   "license": "MIT",
   "main": "index.js",

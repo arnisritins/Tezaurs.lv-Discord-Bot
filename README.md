@@ -1,1 +1,1 @@
-# Latvian Thesaurus Dirscord Bot
+# Latvian Thesaurus Discord Bot
