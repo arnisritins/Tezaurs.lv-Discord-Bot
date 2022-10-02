@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arnisritins/Latvian-Thesaurus-Discord-Bot.git"
+    "url": "https://github.com/arnisritins/Tezaurs.lv-Discord-Bot.git"
   },
   "dependencies": {
     "@discordjs/rest": "^1.1.0",
